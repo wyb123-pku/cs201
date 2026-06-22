@@ -158,7 +158,7 @@ saved docs/fig5_e_vs_time.png
 ## 作者与课程信息
 
 - **课程**：cs201数据结构与算法
-- **项目仓库**：[https://github.com/](https://github.com/wyb123-pku/cs201)
+- **项目仓库**：https://github.com/wyb123-pku/cs201
 - **Python 版本**：3.13.12
 - **最后更新**：2026-06-22
 
